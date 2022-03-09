@@ -17,7 +17,7 @@ header {
   color: #57BB6B;
 }
 
-header img {
+header div img {
   width: 62.5%;
 }
 
@@ -38,7 +38,9 @@ header a {
   background: rgba(255, 255, 255, 0.76);
 }
 
-footer img,
-div img {
+div article img {
+  width: 24%;
+}
+.fruit-decoration {
   width: 7%;
 }
