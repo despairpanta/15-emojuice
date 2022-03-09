@@ -1,0 +1,44 @@
+
+html {
+  scroll-behavior: smooth;
+  background:#57BB6B;
+}
+
+body {
+  max-width: 380px;
+  margin: auto;
+  background:white;
+}
+
+header {
+  padding: 30px;
+  background-image: url(../img/fruits.webp);
+  text-align: center;
+  color: #57BB6B;
+}
+
+header img {
+  width: 62.5%;
+}
+
+header a {
+  margin: 0px 68px;
+  background: #57BB6B;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.button-light {
+  background: white;
+  color: #57BB6B;
+}
+
+.header-box {
+  background: rgba(255, 255, 255, 0.76);
+}
+
+footer img,
+div img {
+  width: 7%;
+}
