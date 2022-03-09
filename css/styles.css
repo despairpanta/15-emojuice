@@ -34,8 +34,20 @@ header a {
   color: #57BB6B;
 }
 
+.button {
+  background: #57BB6B;
+}
+
 .header-box {
   background: rgba(255, 255, 255, 0.76);
+}
+
+.product-section {
+  background: #57BB6B;
+}
+
+div {
+  text-align: center;
 }
 
 div article img {
@@ -43,4 +55,8 @@ div article img {
 }
 .fruit-decoration {
   width: 7%;
+}
+
+footer {
+  text-align: center;
 }
