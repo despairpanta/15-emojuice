@@ -91,6 +91,7 @@ header .container {
 
 .product-section {
   background: #57BB6B;
+  padding: 0px 0px 15px 0px;
 }
 
 .product-section h2 {
@@ -168,5 +169,34 @@ div article img {
 }
 
 footer {
+  margin: 0px 57px;
   text-align: center;
+  display: flex;
+  flex-direction: column;
 }
+
+footer h1 {
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 26px;
+  color: #57BB6B;
+}
+
+footer p {
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 12px;
+  color: #57BB6B;
+}
+
+
+footer .button {
+ margin: 5px 0px 10px 0px;
+}
+
+.fruit-footer {
+  display: flex;
+  flex-direction: row;
+}
+
+/* footer .container {
+
+} */
