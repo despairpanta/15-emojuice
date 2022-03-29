@@ -232,6 +232,11 @@ div article img {
   padding: 20px 0;
 }
 
+.other-product h2 {
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 26px;
+}
+
 .other-product img {
   width: 70%;
 }
