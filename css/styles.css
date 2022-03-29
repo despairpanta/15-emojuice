@@ -174,9 +174,9 @@ div article img {
 
 .kiwi-quote img {
   background: white;
-  padding: 0px 0px 0px 0px;
-  border-radius: 50px;
-  width: 35%;
+  padding: 25px;
+  border-radius: 80px;
+  width: 28%;
 }
 
 footer {
