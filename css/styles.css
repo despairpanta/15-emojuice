@@ -172,11 +172,38 @@ div article img {
   background: #C4F2AD;
 }
 
+.kiwi-quote h2 {
+  font-family: 'Sriracha', cursive; 
+  font-size: 30px;
+}
+
+.kiwi-quote p {
+  font-family: 'Quattrocento', serif; 
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
 .kiwi-quote img {
   background: white;
   padding: 25px;
   border-radius: 80px;
-  width: 28%;
+  width: 26%;
+}
+
+.kiwi-information {
+  background: #57BB6B;
+}
+
+.other-product {
+  background: #C4F2AD;
+}
+
+.strawberry-card {
+  background: #F7A4B4;
+  margin: 25px 29px;
+  padding: 30px 35px;
+  border-radius: 20px;
+  text-align: left;
 }
 
 footer {
