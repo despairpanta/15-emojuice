@@ -168,6 +168,17 @@ div article img {
   width: 35%;
 }
 
+.kiwi-quote {
+  background: #C4F2AD;
+}
+
+.kiwi-quote img {
+  background: white;
+  padding: 0px 0px 0px 0px;
+  border-radius: 50px;
+  width: 35%;
+}
+
 footer {
   margin: 0px 57px;
   text-align: center;
